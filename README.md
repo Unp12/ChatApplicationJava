@@ -78,6 +78,6 @@ This is a simple chat application built in Java, consisting of a server and a cl
 
 ## Author
 
-[Ullam NagaPoojith/Unp12]
+
 ![Screenshot (55)](https://github.com/user-attachments/assets/2b729796-8424-4155-803c-b401e2ca7ec9)
 
